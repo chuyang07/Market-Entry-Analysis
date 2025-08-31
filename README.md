@@ -28,7 +28,7 @@ Consulting project on market entry strategy, statewide regulation research and c
 - **Manor Hill Brewing**
 - It's MD's largest farm brewery, founded by Randy and Mary Marriner and based on a 54-acre farm in Ellicott City. Today, the Marriner's enterprise includes the brewery itself and several restaurants. Their brand story and values lie in quality beer, family, community and innovation.
 - The brewery has established distribution channels across MD, D.C., and Delaware. Based on the success, Manor Hill is now considering expansion into northern VA
-- For more details, see [Manor Hill Brand Overview]
+- For more details, see [Manor Hill Brand Overview](./Brand Overview.pdf)
 - **Challenges**
 - 1. Legal complexity due to state-specific alcohol regulation
   2. Market and consumer fit due to unique beer ecosystem
@@ -75,8 +75,8 @@ Consulting project on market entry strategy, statewide regulation research and c
 
 ## Deliverables
 - This repository includes
-- [Final Report]
-- [Final Presentation Slides]
+- [Final Report](./Market Research Report.pdf)
+- [Final Presentation Slides](./Final Presentation Slides.pptx)
 
 -----------------------------------------------------------------------------------------
 
